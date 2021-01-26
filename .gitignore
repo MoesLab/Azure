@@ -1,0 +1,9 @@
+.pioenvs
+CMakeListsPrivate.txt
+.piolibdeps
+/src/MqttAzureIotHub.cpp
+/src/MqttAzureIotHub.cpp.backup
+.idea/
+.vscode
+.vscode/c_cpp_properties.json
+.vscode/launch.json
